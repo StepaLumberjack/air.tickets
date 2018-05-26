@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  air.tickets
+
+  Created by macbookpro on 24.05.2018.
+  Copyright © 2018 macbookpro. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "AIR TICKETS";
+"CFBundleName" = "AIR TICKETS";

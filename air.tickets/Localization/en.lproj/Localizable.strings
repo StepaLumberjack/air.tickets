@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  air.tickets
+
+  Created by macbookpro on 24.05.2018.
+  Copyright © 2018 macbookpro. All rights reserved.
+*/
+
+"cities" = "Cities";
+"airports" = "Airports";
+
+//TabBarController
+
+"search_tab" = "Search";
+"map_tab" = "Price map";
+"favourites_tab" = "Favourites";
+
+//MainViewController
+
+"main_search_title" = "Search";
+"main_from" = "From";
+"main_to" = "To";
+"main_search" = "Find flights";
+
+//FirstViewController
+
+"about_app_header" = "ABOUT APP";
+"tickets_header" = "AIR TICKETS";
+"map_price_header" = "PRICE MAP";
+"favourites_header" = "FAVOURITES";
+"about_app_describe" = "Air tickets search app";
+"tickets_describe" = "Find the best deals";
+"map_price_describe" = "View cheapest prices on the map";
+"favourites_describe" = "Save to favourites";
+
+"next_button" = "NEXT";
+"done_button" = "TRAVEL";
+
+//TicketsViewController
+
+"tickets_title" = "Tickets";
+"add_to_favourite" = "Add to favs";
+"remove_from_favourite" = "Remove from favs";
+"remind_me" = "Remind";
+"ticket_reminder" = "Ticket reminder";
+"notification_will_be_sent" = "Notification will be send";
+"success" = "Success";
+
+//Alerts
+
+"oops" = "Oops!";
+"error" = "Error";
+"tickets_not_found" = "No tickets found for this route";
+"close" = "Close";
+"not_set_place_arrival_or_departure" = "Arrival and departure points are obligatory";
+"actions_with_tickets" = "Actions";
+"actions_with_tickets_describe" = "What to do with the ticket?";
+"not_determine_current_city" = "Failed to determine a current city";

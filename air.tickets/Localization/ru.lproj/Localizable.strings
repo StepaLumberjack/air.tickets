@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  air.tickets
+
+  Created by macbookpro on 24.05.2018.
+  Copyright © 2018 macbookpro. All rights reserved.
+*/
+
+"cities" = "Города";
+"airports" = "Аэропорты";
+
+//TabBarController
+
+"search_tab" = "Поиск";
+"map_tab" = "Карта цен";
+"favourites_tab" = "Избранное";
+
+//MainViewController
+
+"main_search_title" = "Поиск";
+"main_from" = "Откуда";
+"main_to" = "Куда";
+"main_search" = "Найти";
+
+//FirstViewController
+
+"about_app_header" = "О ПРИЛОЖЕНИИ";
+"tickets_header" = "АВИАБИЛЕТЫ";
+"map_price_header" = "КАРТА ЦЕН";
+"favourites_header" = "ИЗБРАННОЕ";
+"about_app_describe" = "Приложение для поиска авиабилетов";
+"tickets_describe" = "Находите самые дешевые авиабилеты";
+"map_price_describe" = "Просмотривайте карту цен";
+"favourites_describe" = "Сохраняйте выбранные билеты в избранное";
+
+"next_button" = "ДАЛЕЕ";
+"done_button" = "ГОТОВО";
+
+//TicketsViewController
+
+"tickets_title" = "Билеты";
+"add_to_favourite" = "Добавить в избранное";
+"remove_from_favourite" = "Удалить и избранного";
+"remind_me" = "Напомнить";
+"ticket_reminder" = "Напоминание о билете";
+"notification_will_be_sent" = "Уведомление будет отправлено";
+"success" = "Успешно";
+
+//Alerts
+
+"oops" = "Увы!";
+"error" = "Ошибка";
+"tickets_not_found" = "По данному направлению билетов не найдено";
+"close" = "Закрыть";
+"not_set_place_arrival_or_departure" = "Необходимо указать место отправления и место прибытия";
+"actions_with_tickets" = "Действия с билетом";
+"actions_with_tickets_describe" = "Что необходимо сделать с выбранным билетом?";
+"not_determine_current_city" = "Не удалось определить текущий город";
